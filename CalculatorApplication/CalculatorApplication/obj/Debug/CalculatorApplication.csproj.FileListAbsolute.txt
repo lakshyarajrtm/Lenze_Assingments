@@ -1,0 +1,13 @@
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.CalculatorForm.resources
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.ConcatinationForm.resources
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.StringComparisonForm.resources
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.PalindromForm.resources
+C:\Users\rathorel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.StringReverseForm.resources
