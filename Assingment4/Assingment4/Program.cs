@@ -82,7 +82,16 @@ namespace Assingment4
 
             int findPairOf;
             Console.WriteLine("Input number to find pair");
-            findPairOf = Convert.ToInt32(Console.ReadLine());
+            try
+            {
+
+                findPairOf = Convert.ToInt32(Console.ReadLine());
+            }
+            catch(Exception _)
+            {
+                Console.WriteLine("Please enter a valid number");
+                return;
+            }
 
             int count = 0;
             for (int i = 0; i < arraySize; i++)
@@ -95,7 +104,10 @@ namespace Assingment4
 
             }
 
-            Console.WriteLine("Number of pairs {0}", count % 2);
+            if (count > 0)
+                Console.WriteLine("Number of pairs {0}", count % 2);
+            else
+                Console.WriteLine("Number not found in array");
         }
     }
 }
