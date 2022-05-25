@@ -1,0 +1,14 @@
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.exe
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.deps.json
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.runtimeconfig.json
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.runtimeconfig.dev.json
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.dll
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\bin\Debug\netcoreapp3.1\Assingment4.pdb
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.csproj.AssemblyReference.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.AssemblyInfoInputs.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.AssemblyInfo.cs
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.csproj.CoreCompileInputs.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.dll
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.pdb
+C:\Users\rathorel\source\repos\LenzeAssingments\Assingment4\Assingment4\obj\Debug\netcoreapp3.1\Assingment4.genruntimeconfig.cache

@@ -11,17 +11,17 @@ namespace DeviceApplication
     public partial class Device_One : Form, IDevice
     {
 
-        public String ProductName { get; set; } = "Router";
+        private String ProductName { get;  } = "Router";
 
-        public String ProductCode { get; set; } = "132";
+        private String ProductCode { get;  } = "132";
 
-        public String FirmwareVersion { get; set; } = "1.0";
+        private String FirmwareVersion { get;  } = "1.0";
 
-        public int SwitchingFrequency { get; set; } = 200;
+        private int SwitchingFrequency { get;  } = 200;
 
-        public int StartFrequency { get; set; } = 6000;
+        private int StartFrequency { get;  } = 6000;
 
-        public int DelayTime { get; set; } = 200;
+        private int DelayTime { get;  } = 200;
 
         public Device_One()
         {
@@ -33,6 +33,7 @@ namespace DeviceApplication
             switchingFrequencyValue.Enabled = false;
             startFrequencyValue.Enabled = false;
             delayTimeValue.Enabled = false;
+            
         }
 
         public void ShowDetails()
@@ -48,6 +49,7 @@ namespace DeviceApplication
             {
                 errorStateValue.BackColor = Color.Red;
             }
+
         }
     }
 }

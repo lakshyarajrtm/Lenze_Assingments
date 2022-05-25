@@ -9,3 +9,14 @@ C:\Users\rathorel\source\repos\DeviceApplication\DeviceApplication\obj\Debug\Dev
 C:\Users\rathorel\source\repos\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.selectDeviceForm.resources
 C:\Users\rathorel\source\repos\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.Device_One.resources
 C:\Users\rathorel\source\repos\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.DeviceSecond.resources
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\bin\Debug\DeviceApplication.exe
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\bin\Debug\DeviceApplication.pdb
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.csproj.AssemblyReference.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.Device_One.resources
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.DeviceSecond.resources
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.Properties.Resources.resources
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.selectDeviceForm.resources
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.csproj.GenerateResource.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.exe
+C:\Users\rathorel\source\repos\LenzeAssingments\DeviceApplication\DeviceApplication\obj\Debug\DeviceApplication.pdb

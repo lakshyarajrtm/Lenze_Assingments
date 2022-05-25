@@ -11,17 +11,17 @@ namespace DeviceApplication
 {
     public partial class DeviceSecond : Form, IDevice
     {
-        public String ProductName { get; set; } = "Switch";
+        private String ProductName { get; } = "Switch";
 
-        public String ProductCode { get; set; } = "164";
+        private String ProductCode { get; } = "164";
 
-        public String FirmwareVersion { get; set; } = "2.0";
+        private String FirmwareVersion { get; } = "2.0";
 
-        public int ActualTorque { get; set; } = 322;
+        private int ActualTorque { get; } = 322;
 
-        public int ActualSpeed { get; set; } = 8000;
+        private int ActualSpeed { get; } = 8000;
 
-        public int ActualVoltage { get; set; } = 800;
+        private int ActualVoltage { get; } = 800;
 
 
         public DeviceSecond()
