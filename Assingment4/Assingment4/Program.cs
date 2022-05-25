@@ -38,12 +38,33 @@ namespace Assingment4
         static void Main(string[] args)
         {
             int arraySize;
-            arraySize = Convert.ToInt32(Console.ReadLine());
-            int[] arr = new int[arraySize];
-
-            for(int i = 0; i < arraySize; i++)
+            try
             {
-                arr[i] = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the array size");
+                arraySize = Convert.ToInt32(Console.ReadLine());
+
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine("Please enter a valid number");
+                return;
+            }
+            int[] arr = new int[arraySize];
+            Console.WriteLine("Please enter the number to be stored: ");
+            for (int i = 0; i < arraySize; i++)
+            {
+                try
+                {
+                    
+
+                    arr[i] = Convert.ToInt32(Console.ReadLine());
+
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("please enter a valid number");
+                    return;
+                }
             }
             int[] dataRead = new int[arraySize];
             String fileName = @"file.txt";
@@ -52,12 +73,29 @@ namespace Assingment4
 
             Console.WriteLine();
             Console.WriteLine("Reading from file and Writing to Console: ");
+            
             for(int i = 0; i < arraySize; i++)
             {
-
+                
                 Console.WriteLine(dataRead[i]);
             }
-            
+
+            int findPairOf;
+            Console.WriteLine("Input number to find pair");
+            findPairOf = Convert.ToInt32(Console.ReadLine());
+
+            int count = 0;
+            for (int i = 0; i < arraySize; i++)
+            {
+                if (dataRead[i] == findPairOf)
+                {
+                    count++;
+                }
+
+
+            }
+
+            Console.WriteLine("Number of pairs {0}", count % 2);
         }
     }
 }
