@@ -105,7 +105,7 @@ namespace Assingment4
             }
 
             if (count > 0)
-                Console.WriteLine("Number of pairs {0}", count % 2);
+                Console.WriteLine("Number of pairs {0}", count / 2);
             else
                 Console.WriteLine("Number not found in array");
         }
